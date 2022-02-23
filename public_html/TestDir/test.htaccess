@@ -1,0 +1,4 @@
+AuthUserFile "./public_html/TestDir/example.htpasswd"
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user
